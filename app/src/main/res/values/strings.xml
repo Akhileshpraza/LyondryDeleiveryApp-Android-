@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Lyondry Delivery app</string>
+
+    <style name="rack_yes_fr">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#31396B</item>
+    </style>
+    <!-- strings.xml -->
+    <string name="rack_yes_fr">Pickup ID    : 08876534</string>
+
+    <style name="pickup_pend">
+        <item name="android:textSize">11sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <!-- strings.xml -->
+    <string name="pickup_pend">Pickup\nPending</string>
+    <string name="powered">Powered by LyonIT</string>
+
+
+    <string-array name="city">
+        <item>Bengaluru</item>
+        <item>Hubli-Dharwad</item>
+        <item>Mysuru</item>
+        <item>Kalaburagi</item>
+    </string-array>
+
+    <string-array name="alllocation">
+        <item>AllLocation</item>
+
+    </string-array>
+
+
+    <string-array name="date_array">
+        <item>16–03-2021</item>
+        <item>17–03-2021</item>
+        <item>18–03-2021</item>
+        <item>19–03-2021</item>
+        <item>20–03-2021</item>
+    </string-array>
+    <string name="terms">Terms and conditions</string>
+    <string name="tmc0">LYONDRY Eco Carry Bags Are Chargeable</string>
+    <string name="tmc">Kindly Preserve This Ticket Until Garments Are Delivered.</string>
+    <string name="tmc1">Please Check All Your Garments At The Time Of Delivery.</string>
+    <string name="tmc3">Bill Once Made Cannot Be Cancelled.</string>
+    <string name="tmc4">LYONDRY Does Not Guarantee Removal Of All Stains.</string>
+    <string name="tmc5">Handloom Cottons/Silks and Dyed Fabrics May Change Colour Or Fade When Dry Cleaned.</string>
+    <string name="tmc6">LYONDRY Reserves The Right To Refuse Cleaning Any Garment/Article.</string>
+    <string name="tmc7">Quality of texture, colour, trimmings, etc. is entirely at owner’s risk.</string>
+    <string name="tmc8">The Company does not hold itself responsible for delay loss or damage to any article arising from unforeseen circumstances or from causes beyond control.</string>
+    <string name="tmc9">In the event of damage to article that is not caused by any of the above stated characteristics. LYONDRY liability is limited to six (6) times the cleaning charge of the damaged article.</string>
+    <string name="tmc10">Any difference in the count of items and the number of items on the bill must be reported at the time of delivery only. LYONDRY will not be responsible once the garments are out of the store .</string>
+    <string name="tmc11">In the unforeseen events of loss or misplacement of any article, LYONDRY shall conduct careful examination of the specific case. LYONDRY liability with respect to any lost item shall not exceed ten (10) times of charges for cleaning of article after as billed.</string>
+
+
+    <string name="date_selected"></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="invaled_userid">Please enter valid user id</string>
+    <string name="invalid_password">Please enter correct password</string>
+    <string name="search">Search...</string>
+    <string name="folded">Folded</string>
+    <string name="hanger">Hanger</string>
+</resources>
